@@ -2,3 +2,4 @@ googlemaps
 dateparser
 recognizers-text-suite
 slack
+airtable
