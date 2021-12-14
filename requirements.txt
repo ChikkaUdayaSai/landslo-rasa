@@ -3,3 +3,4 @@ dateparser
 recognizers-text-suite
 slack
 airtable
+pyairtable
