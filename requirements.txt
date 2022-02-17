@@ -1,6 +1,7 @@
-googlemaps
-dateparser
-recognizers-text-suite
-slack
-airtable
-pyairtable
+airtable==0.4.8
+dashbot==0.0.19
+dateparser==1.1.0
+googlemaps==4.6.0
+pyairtable==1.0.0.post1
+recognizers-text-suite==1.0.2a2
+slack==0.0.2
