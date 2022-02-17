@@ -5,3 +5,5 @@ googlemaps==4.6.0
 pyairtable==1.0.0.post1
 recognizers-text-suite==1.0.2a2
 slack==0.0.2
+colorlog==6.5.0
+millify==0.1.1
