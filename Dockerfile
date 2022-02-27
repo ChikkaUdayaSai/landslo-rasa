@@ -1,4 +1,4 @@
-FROM rasa/rasa:2.8.25-full
+FROM rasa/rasa:2.8.14-full
 
 USER root
 
