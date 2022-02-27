@@ -1,4 +1,3 @@
-scipy==1.7.3
 airtable==0.4.8
 dashbot==0.0.19
 dateparser==1.1.0
