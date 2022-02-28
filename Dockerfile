@@ -2,6 +2,7 @@ FROM rasa/rasa:2.8.11
 
 USER root
 
+RUN sudo apt install python3-scipy
 COPY requirements.txt .
 
 RUN pip install --upgrade pip
